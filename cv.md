@@ -36,6 +36,6 @@
   <li> <b>Language:</b>
   <li>English level - A2</li>
   </li>
-    
+    <br>
     
 
